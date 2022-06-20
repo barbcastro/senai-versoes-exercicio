@@ -1,13 +1,11 @@
-# senai-versoes-exercicio
-
-# PRINCIPAIS COMANDOS UTILIZADOS NO GIT
-* **git init** INICIA O REPOSITÓRIO GIT NO COMPUTADOR LOCAL
-* **git satatus** VERIFCA O STATUS DAS ALTERAÇÕES REALIZADAS NO REPOSITÓRIO.
-* **git add** ADICIONA ARQUIVOS AO HISTÓRICO DO PROJETO, NA STAGING.
-* **git commit** REGISTRA A ALTERAÇÃO NO REPOSITÓRIO.
-* **git log** PERMITE VISUALIZAR AS ALTERAÇÕES FEITAS.
-* **git show numero-do-commit** VISUALIZA INFORMAÇÕES SOBRE QUALQUER COMMIT.
-* **git remote add origin "destino"** INFORMA A PASTA REMOTA.
-* **git remote -v** VISUALIZA O REPOSITÓRIO REMOTO.
-* **git push -u origin master** PUBLICA ALTERAÇÕES NO REPOSITÓRIO REMOTO.
-* **git pull** BAIXA AS ALTERAÇÕES NO REPOSITÓRIO REMOTO.
+# PRINCIPAIS COMANDOS UTILIZADOS NO GIT 
+* **git init**: Inicia o repositório GIT no computador local;
+* **git status**: Verifica o status das alterações realizadas no repositório;
+* **git add**: Adiciona arquivos ao histórico do projeto;
+* **git commit**: Registra a alteração no repositório; 
+* **git log**: Permite visualizar as alterações feitas;
+* **git show numero-do-commit**: Visualiza informações sobre qualquer commit;
+* **git remote add origin "destino"**: Informa a pasta remota;
+* **git remote -v**: Visualiza o repositório remoto;
+* **git push -u origin master**: Publica as alterações no repositório remoto;
+*  **git pull**: Baixa as alterações no repositório.
